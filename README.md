@@ -11,7 +11,7 @@ A Python-based microeconomics vocabulary quiz that randomly generates 10 questio
 
 ## Purpose
 
-This project combines Python programming with microeconomics coursework to create an interactive study tool for practicing key economic vocabulary.
+This project combines Python programming with microeconomics coursework to create an interactive study tool for practicing microeconomic vocabulary.
 
 ## Author
 
